@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bsb:home|Door43 (bsb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bsb|d43-bsb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bsb/archive/master.zip|d43-bsb.zip]]
+
+**Recent Changes**
+{{changes>ns = bsb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bsb|Ethnologue data]]
+
